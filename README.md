@@ -1,1 +1,1 @@
-自分自身のHTML/CSS/JAVASCRIPTのスキルを可視化するために制作した練習用サイトです。
+自分自身のHTML/CSS/JAVASCRIPTのスキルを可視化するために制作した練習用サイト
